@@ -1451,6 +1451,11 @@ class OrderConfirm extends StatelessWidget {
           title: Text('Hyperion Controllers'),
         ),
         body: ListView(padding: const EdgeInsets.all(12), children: [
+          new Image(
+          image: new AssetImage('images/Hyperion-Logo-1-2274.jpg'),
+          height: 160.0,
+          width: 340.0,
+         ),
           Center(
             child: thankyoutext,
           ),
