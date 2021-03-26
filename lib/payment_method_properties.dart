@@ -81,11 +81,11 @@ class PaymentInfo {
 
   PaymentInfo(
       {this.nameOnCard,
-      this.cardNumber,
-      this.type,
-      this.month,
-      this.year,
-      this.cvv});
+        this.cardNumber,
+        this.type,
+        this.month,
+        this.year,
+        this.cvv});
 }
 
 class CardProperties {
