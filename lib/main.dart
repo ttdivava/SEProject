@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'paymentMethod.dart';
-import 'package:hyperion/functions.dart';
+import 'functions.dart';
 import 'shipping.dart';
 
 void main(){

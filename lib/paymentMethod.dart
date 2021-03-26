@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'order_review.dart';
 import 'payment_method_properties.dart';
-
+import 'shipping.dart';
 
 // Define a custom Form widget.
 class PaymentMethodForm extends StatefulWidget {
@@ -211,7 +211,8 @@ class PaymentMethodFormState extends State<PaymentMethodForm> {
                     onPressed: () {
                       ScaffoldMessenger.of(context).showSnackBar(
                           SnackBar(content: Text('Processing Data')));
-                    },
+                    Navigator.pop(context, MaterialPageRoute(builder: (Context) => ShippingInfo()));
+                      },
                     child: Text('Back'),
                   )
                 ],
