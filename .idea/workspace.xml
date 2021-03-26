@@ -24,36 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb04d8fe-59e1-46c2-838d-0ac3ff016bfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/configuration-cache/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/dropdown_shipping_widget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SEProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SEProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/paymentMethod.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/paymentMethod.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/shipping.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/shipping.dart" afterDir="false" />
-    </list>
+    <list default="true" id="cb04d8fe-59e1-46c2-838d-0ac3ff016bfd" name="Default Changelist" comment="Payment method back button fixed,&#10;Shipping options fixed with form validation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,23 +84,27 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Payment method back button fixed,&#10;Shipping options fixed with form validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Payment method back button fixed,&#10;Shipping options fixed with form validation" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1616749656503">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1616751192016">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616749656503" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1616749656502">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616751192016" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1616751192016">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616749656502" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1616749656501">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616751192016" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1616751192015">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616749656501" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1616749656502">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616751192015" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1616751192016">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616749656502" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616751192016" />
     <state x="298" y="151" key="run.anything.popup" timestamp="1616749081347">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
